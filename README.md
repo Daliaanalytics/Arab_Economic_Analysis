@@ -9,16 +9,16 @@ This Power BI dashboard provides an economic analysis of selected Arab countries
 
 ## Dashboard Pages
 
-# Page 1: Economic Overview
+### Page 1: Economic Overview
 
 This page provides a general overview of economic performance.
 
-# KPIs
+### KPIs
 - Maximum GDP (Billion USD)
 - Maximum GDP per Capita (Current USD)
 - Average Inflation Rate (%)
 
-# Visualizations
+### Visualizations
 - Average GNI by Country
      Compares the average Gross National Income among countries.
 - Average GDP per Capita by Country
@@ -26,9 +26,9 @@ This page provides a general overview of economic performance.
 - Average GDP Growth Over Time
      Line chart displaying GDP growth trends from 2010–2025.
 
-# Page 2: Economic Indicators Analysis
+### Page 2: Economic Indicators Analysis
 
-# Visualizations
+### Visualizations
 - Average Inflation by Country
     Compares inflation rates across countries.
 - Average Unemployment by Country
