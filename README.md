@@ -1,4 +1,5 @@
 # Arab_Economic_Analysis
+
 ## Project Overview
 This Power BI dashboard provides an economic analysis of selected Arab countries, focusing on key economic indicators such as GDP, GDP per Capita, GNI, Inflation Rate, Unemployment Rate, and GDP Growth. The dashboard helps users compare economic performance across countries and analyze trends over time.
 
@@ -46,3 +47,9 @@ This page provides a general overview of economic performance.
 - A positive relationship exists between GDP and GNI, where countries with larger economies tend to have higher national income.
 - The scatter plot does not show a strong direct relationship between unemployment and inflation across all countries.
 
+## Files
+- arab_economic_analysis (csv file)
+- Arab_Economic_Analysis (Python Code)
+- Arab_Economic_Dashboard (Power BI Dashboard)
+- Screenshot Dashboard(1) (Dashboard Preview)
+- Screenshot Dashboard(2) (Dashboard Preview)
